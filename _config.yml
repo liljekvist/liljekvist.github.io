@@ -46,7 +46,7 @@ social:
     - https://github.com/liljekvist       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    https://www.linkedin.com/in/mikael-bohlin-liljekvist-1b3977221
+    - https://www.linkedin.com/in/mikael-bohlin-liljekvist-1b3977221
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
