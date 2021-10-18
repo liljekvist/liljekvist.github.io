@@ -1,7 +1,7 @@
 ---
 title: A Website for a hairsaloon
 author: Mikael Bohlin Liljekvist
-date: 2021-08-1 00:00:00 +2000
+date: 2021-09-24 20:00:00 +2000
 categories: [HTML/CSS/JS, TE4, client]
 tags: []
 ---
